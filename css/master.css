@@ -1,1 +1,35 @@
-
+body{
+  background-color: black;
+}
+.container{
+  width:                1200px;
+  margin:               auto;
+  background-color:     gray;
+}
+.pageTop{
+  background-color:     green;
+  background-image:     url("../img/chess.png");
+  width:                1000px;
+  height:               250px;
+  margin:               auto;
+  text-transform:       capitalize;
+}
+.pageTop h1{
+  text-align:           center;
+  padding-top:          80px;
+  color:                red;
+  font-size:            60.5px;
+}
+.pageTop p{
+  text-align:          center;
+  font-size:           40px;
+  color:               purple;
+}
+figure{
+  background-color:    white;
+  width:               350px;
+  padding:             25px;
+}
+img{
+  width:               300px;
+}
